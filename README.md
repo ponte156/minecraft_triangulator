@@ -1,4 +1,5 @@
 # 마인크래프트 삼각 측량
+![Static Badge](https://img.shields.io/badge/use_language-Python-blue)
 ### 프로젝트 설명
 >**삼각 측량 알고리즘**을 이용해 플레이 중 엔더유적을 찾을 시 사용되는 엔더의 눈 소비를 최소화하는 프로그램입니다.
 ### 💾 다운로드
