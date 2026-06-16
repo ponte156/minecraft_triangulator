@@ -6,5 +6,3 @@
 * [다운로드](https://github.com/ponte156/minecraft_triangulator/releases/latest)
 ### 사용법
 -설명-
-### 구조도
-<img width="101" height="150" alt="mermaid-drawing" src="https://github.com/user-attachments/assets/ec568f12-b7e7-4432-adff-e867d683c3af" />
