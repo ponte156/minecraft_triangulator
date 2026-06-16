@@ -4,8 +4,8 @@
 >**삼각 측량 알고리즘**을 이용해서 목표 위치와의 거리를 쉽게 측정할 수 있습니다.
 ### 💾 다운로드
 최신 버전파일은 우측 **Releases** 섹션이나 아래 링크를 통해 다운로드 할 수 있습니다.
-* [최신 버전 다운로드](https://github.com/ponte156/minecraft_triangulator/releases/latest)
 *기타 버전은 우측 **Releases** 섹션에서 확인 할 수 있습니다.*
+* [최신 버전 다운로드](https://github.com/ponte156/minecraft_triangulator/releases/latest)
 ### 사용법
 1. 현재 바라보는 **방위**를 정한다.
 2. **지점1**에서 바라본 목표와의 각도를 기입한다.
